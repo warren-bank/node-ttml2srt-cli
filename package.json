@@ -1,0 +1,22 @@
+{
+  "name": "@warren-bank/node-ttml2srt-cli",
+  "version": "1.0.0",
+  "main": "",
+  "description": "An extremely lightweight command-line utility to convert a subtitle file from .ttml to .srt format",
+  "license": "GPL-2.0",
+  "bin": {
+    "ttml2srt": "bin/ttml2srt.js"
+  },
+  "scripts": {
+    "start": "node bin/ttml2srt.js"
+  },
+  "author": {
+    "name": "Warren R. Bank",
+    "email": "warren.r.bank@gmail.com",
+    "url": "https://github.com/warren-bank"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warren-bank/node-ttml2srt-cli"
+  }
+}
