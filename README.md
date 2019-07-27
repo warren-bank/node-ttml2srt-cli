@@ -13,7 +13,7 @@ npm install --global @warren-bank/node-ttml2srt-cli
 #### Binary (global):
 
 ```bash
-ttml2srt '/path/to/file.ttml' '/path/to/file.srt'
+ttml2srt '/path/to/input.ttml' '/path/to/output.srt'
 ```
 
 - - - -
@@ -35,7 +35,7 @@ npm install
 #### Binary (local):
 
 ```bash
-npm start -- '/path/to/file.ttml' '/path/to/file.srt'
+npm start -- '/path/to/input.ttml' '/path/to/output.srt'
 ```
 
 - - - -
