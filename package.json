@@ -1,6 +1,6 @@
 {
   "name": "@warren-bank/node-ttml2srt-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "",
   "description": "An extremely lightweight command-line utility to convert a subtitle file from .ttml to .srt format",
   "license": "GPL-2.0",
